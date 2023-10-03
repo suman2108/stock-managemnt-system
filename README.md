@@ -1,3 +1,4 @@
 # stock-managemnt-system
 first repos
-authoer: sourav suman
+<br>
+auther: sourav suman
